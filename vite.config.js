@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/web-tieu-luan-1"
+  base: "/web-tieu-luan-travel/",
 });
